@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "OSCONF Hyderabad 2020"
 email: "contact@collabnix.com"
 description: "OSCONF Hyderabad 2020 - Online Conference"
-baseurl: "/"
+baseurl: ""
 url: ""
 #permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
