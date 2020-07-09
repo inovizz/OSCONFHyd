@@ -1,10 +1,10 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Collabnix", description: "Collabnix is one of the fastest growing Docker community on this planet with around 4000+ members, close to 1 million messages in average every month.", link: "https://collabnix.com/", imageUrl: "collabnix.png"}
 - 
-  group: "Co-organizers"
+  group: "Partner Communities"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Hyderabad Python User Group", description: "Python User Group of Hyderabad", link: "https://hydpy.org/", imageUrl: "hydpy.png"}
+    - {name: "GDG Hyderabad", description: "Google Developers Group Hyderabad", link: "", imageUrl: "gdghyd.png"}
+    # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
