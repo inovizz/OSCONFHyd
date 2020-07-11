@@ -62,7 +62,7 @@ typeoutTextValues: 'OSCONF", "India"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://www.papercall.io/osconfhyd2020", text: "Become a Speaker"}
- - {permalink: "/#register", text: "Register"}
+ - {link: "https://forms.gle/y2PFj8cdFxW5bud2A", text: "Register"}
 
 # About Block
 aboutTitle: "About OSCONF Hyderabad"
