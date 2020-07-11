@@ -7,12 +7,12 @@
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
                 <div class="timeslot-elements flexbox-wrapper">
-                    {% for track in day.tracks %}
-                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
-                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
+                    <!-- {% for track in day.tracks %}
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %} -->
+                    <div class="track-header-slot col-md-12 flexbox-item-height hidden-xs">
                         <h5 class="track-header-title">{{ track.title }}</h5>
                     </div>
-                    {% endfor %}
+                    <!-- {% endfor %} -->
                     <div class="track-header-slot col-xs-12 visible-xs">
                         <h5 class="slot-detail track-header-title"></h5>
                     </div>

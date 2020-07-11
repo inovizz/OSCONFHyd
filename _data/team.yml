@@ -1,60 +1,49 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Ajeet Singh"
+  surname: "Raina"
+  title: "Docker Captain"
+  thumbnailUrl: ajeet.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Collabnix", title: "Collabnix"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/ajeetsraina/"}
+    - {name: "Twitter", link: "https://twitter.com/ajeetsraina"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Apurva"
+  surname: "Bhandari"
+  title: "Collanix, SRE @Vuclip"
+  thumbnailUrl: apurva.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Collabnix", title: "Collabnix"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/apurvabhandari-linux/"}
+    - {name: "Twitter", link: "https://www.linkedin.com/in/apurvabhandari-linux/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Sangam"
+  surname: "Biradar"
+  title: "Collabnix, Docker Community Leader, Author - EngineITOps"
+  thumbnailUrl: sangam.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "Collabnix", title: "Collabnix"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/sangambiradar14/"}
+    - {name: "Twitter", link: "https://twitter.com/BiradarSangam"}
+
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Vinay"
+  surname: "Agarwal"
+  title: "Collabnix, Pricipal Software Engineer (DevOps) - Dell EMC"
+  thumbnailUrl: vinay.png
+  team: true
+  ribbon: 
+    - {abbr: "Collabnix", title: "Collabnix"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/vinay-agarwal-b9944b9/"}
+    - {name: "Twitter", link: "https://twitter.com/collabnix"}
