@@ -61,7 +61,7 @@ eventDate: "1st Aug, 9:00-16:00 IST"
 typeoutTextValues: 'OSCONF", "India"'
 typeoutFallback: ""
 heroButtons:
- - {link: "/", text: "Become a Speaker"}
+ - {link: "https://www.papercall.io/osconfhyd2020", text: "Become a Speaker"}
  - {permalink: "/#register", text: "Register"}
 
 # About Block
