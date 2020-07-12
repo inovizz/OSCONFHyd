@@ -13,12 +13,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "OSCONF Hyderabad 2020"
 email: "contact@collabnix.com"
 description: "OSCONF Hyderabad 2020 - Online Conference"
-baseurl: ""
+baseurl: "/osconf-hyd"
 url: "http://osconf-hyd.collabnix.com/"
 #permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 siteVerification: ""
+github_username: inovizz
 
 # Organizer Info
 organizerName: "Collabnix Community"
