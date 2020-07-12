@@ -3445,7 +3445,8 @@ time {
 	position: fixed;
 	z-index: 500;
 	width: 100%;
-	padding: 0 45px
+	padding: 0 45px;
+	color: #fff
 }
 
 .top-header.after-scroll {
@@ -3516,12 +3517,13 @@ nav ul {
 
 .top-header.after-scroll nav ul {
 	-webkit-transform: translateY(20px);
-	transform: translateY(20px)
+	transform: translateY(20px);
+	color: #fff
 }
 
 nav li {
 	display: inline-block;
-	padding: 0 8px;
+	padding: 6px 8px;
 	vertical-align: middle
 }
 
@@ -3541,12 +3543,12 @@ nav li a:hover {
 }
 
 .top-header.after-scroll nav li a {
-	color: rgba(0, 0, 0, 0.5)
+	color: #fff
 }
 
 .top-header.after-scroll nav li a.current,
 .top-header.after-scroll nav li a:hover {
-	color: rgba(0, 0, 0, 0.8)
+	color: #03a9f4
 }
 
 .right-nav-button {
@@ -3643,7 +3645,8 @@ nav li a:hover {
 }
 
 .top-header.after-scroll .icon-menu {
-	fill: #fff
+	fill: #fff;
+	color: #fff
 }
 
 .menu-trigger {
@@ -6155,7 +6158,7 @@ nav li a:hover {
 		height: 100%;
 		-webkit-transition: all 0.5s;
 		transition: all 0.5s;
-		background: #fff;
+		background: rgba(73, 70, 70, 0.99);
 		-webkit-transform: translateX(-100%);
 		transform: translateX(-100%)
 	}
@@ -6169,6 +6172,7 @@ nav li a:hover {
 	.top-header.after-scroll nav ul {
 		-webkit-transform: translateY(0);
 		transform: translateY(0)
+
 	}
 	nav li {
 		display: block
@@ -6180,7 +6184,7 @@ nav li a:hover {
 		-webkit-transition: all 0.3s;
 		transition: all 0.3s;
 		text-transform: none;
-		color: rgba(0, 0, 0, 0.3);
+		color: #fff;
 		outline: 0
 	}
 	nav li a.current,
