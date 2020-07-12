@@ -5,7 +5,7 @@
 - 
   group: "Partner Communities"
   elements: 
-    - {name: "Hyderabad Python User Group", description: "Python User Group of Hyderabad", link: "https://hydpy.org/", imageUrl: "hydpy.png"}
+    - {name: "Hyderabad Python User Group", description: "Python User Group of Hyderabad", link: "http://hydpy.org/", imageUrl: "hydpy.png"}
     - {name: "DSUG Hyderabad", description: "DevOps & SRE User Group Hyderabad", link: "https://dsughyd.org/", imageUrl: "dsughyd.png"}
     - {name: "Docker Hyderabad", description: "Docker Hyderabad", link: "https://www.meetup.com/Docker-Hyderabad/", imageUrl: "docker.png"}
     - {name: "GDG Hyderabad", description: "Google Developers Group Hyderabad", link: "https://gdghyderabad.in/", imageUrl: "gdghyd.png"}
