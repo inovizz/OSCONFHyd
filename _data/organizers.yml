@@ -12,5 +12,6 @@
     - {name: "GDG Cloud Hyderabad", description: "Google Cloud Developers Group Hyderabad", link: "https://www.meetup.com/Google-Cloud-Developer-Community-Hyderabad/", imageUrl: "gdgcloud.png"}
     - {name: "Coderplex", description: "Coderplex Community", link: "https://coderplex.org/", imageUrl: "coderplex.png"}
     - {name: "CyberPsy", description: "CyberPsy", link: "http://linkedin.com/company/cyberpsy ", imageUrl: "cyberpsy.png"}
+    - {name: "DevOps & SRE Community - EPAM India", description: "DevOps & SRE Community - EPAM India", link: "https://community-z.com/communities/dsc-epam-india", imageUrl: "dscepam.png"}
     
     # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
