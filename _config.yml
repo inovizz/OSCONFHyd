@@ -46,10 +46,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://forms.gle/y2PFj8cdFxW5bud2A", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://forms.gle/y2PFj8cdFxW5bud2A", text: "Become a speaker"}
+# bottomNavigationLinks:
+#  - {link: "https://forms.gle/y2PFj8cdFxW5bud2A", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://forms.gle/y2PFj8cdFxW5bud2A", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -58,7 +58,7 @@ eventDate: "1st Aug, 9:00-16:00 IST"
 typeoutTextValues: 'OSCONF", "India"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://www.papercall.io/osconfhyd2020", text: "Become a Speaker"}
+#  - {link: "https://www.papercall.io/osconfhyd2020", text: "Become a Speaker"}
  - {link: "https://forms.gle/y2PFj8cdFxW5bud2A", text: "Register"}
 
 # About Block
