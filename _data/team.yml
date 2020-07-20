@@ -47,3 +47,42 @@
   social: 
     - {name: "Linkedin", link: "https://www.linkedin.com/in/vinay-agarwal-b9944b9/"}
     - {name: "Twitter", link: "https://twitter.com/collabnix"}
+
+- 
+  id: 5
+  name: "Sanchit"
+  surname: "Balchandani"
+  title: "Python Developer @EPAM Systems"
+  thumbnailUrl: sanchit.png
+  team: true
+  ribbon: 
+    - {abbr: "EPAM", title: "EPAM"}
+  social: 
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/inovizz/"}
+    - {name: "Twitter", link: "https://twitter.com/inovizz"}
+
+- 
+  id: 6
+  name: "Kapil"
+  surname: "Dutta"
+  title: "Founder @Coderplex"
+  thumbnailUrl: kapil.png
+  team: true
+  ribbon: 
+    - {abbr: "Coderplex", title: "Coderplex"}
+  social: 
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/duttakapil/"}
+    - {name: "Twitter", link: "https://twitter.com/duttakapil"}
+
+- 
+  id: 7
+  name: "Prateek"
+  surname: "Pandey"
+  title: "Lead @GDG Cloud Hyderabad"
+  thumbnailUrl: prateek.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "GDG"}
+  social: 
+    - {name: "Linkedin", link: "https://www.linkedin.com/in/prateek-cr/"}
+    - {name: "Twitter", link: "https://twitter.com/prateek_cr"}
