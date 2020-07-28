@@ -1,59 +1,64 @@
 -
-  id: 307
-  title: "TBA"
-  place: "TBA"
-  service: true
-  description: "TBA"
--
-  id: 503
-  title: "TBA"
-  place: "TBA"
-  service: true
--
-  id: 001
-  title: "TBA"
-  description: "TBA"
-  subtype: workshop
-  speakers: [3, 6]
+  id: 009
+  title: "Shorten all URLs: Quarkus, Kotlin, Hazelcast and GraalVM"
+  description: "Technical Talk"
+  speakers: [9]
   language: en
-  complexity: "TBA"
-  video: "TBA"
+  complexity: "All"
 -
-  id: 002
-  title: "TBA"
-  description: "TBA"
-  subtype: presentation
-  speakers: [4, 5]
+  id: 008
+  title: "Simplified Deployments into Cloud using Docker Desktop"
+  description: "Technical Talk"
+  speakers: [8]
   language: en
-  complexity: "TBA" 
-  presentation: "TBA"
-  video: "TBA"
+  complexity: "All"
 -
-  id: 003
-  title: "TBA"
-  description: "TBA"
-  subtype: presentation
-  speakers: [4]
+  id: 007
+  title: "Building Microservices on Kubernetes using Envoy Proxy and Istio"
+  description: "Technical Talk"
+  speakers: [1]
   language: en
-  complexity: "TBA" 
-  presentation: "TBA"
+  complexity: "All"
 -
-  id: 004
-  title: "TBA"
-  description: "TBA"
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "TBA"
-  presentation: "TBA"
-  video: "TBA"
+  id: 006
+  title: "Kubernetes Admission controllers using Python"
+  description: "Technical Talk"
+  speakers: [2]
+  language: en
+  complexity: "All"
 -
   id: 005
-  title: "TBA"
-  description: "TBA"
+  title: "Turning Virtual Machines 'Cloud-Native' using KubeVirt"
+  description: "Technical Talk"
+  speakers: [3]
+  language: en
+  complexity: "All"
+-
+  id: 004
+  title: "Monitoring and debugging Kubernetes applications with BotKube"
+  description: "Technical Talk"
+  speakers: [4]
+  language: en
+  complexity: "All"
+-
+  id: 003
+  title: "A New Era of .Net Core Deployment using Azure Devops Starter"
+  description: "Technical Talk"
+  speakers: [5]
+  language: en
+  complexity: "All"
+-
+  id: 002
+  title: "Automating Infrastructure with Kubernetes and Microservices Using Terraform"
+  description: "Technical Talk"
+  speakers: [6]
+  language: en
+  complexity: "All"
+-
+  id: 001
+  title: "Keynote by Ajeet Singh Raina"
+  description: "Keynote"
   subtype: keynote
   speakers: [7]
   language: en
-  complexity: "TBA"
-  presentation: "TBA"
-  video: "TBA"
+  complexity: "All"

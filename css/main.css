@@ -2782,11 +2782,13 @@ section {
 	min-height: 350px;
 	padding-top: 50px;
 	padding-bottom: 0px;
-	text-align: center
+	text-align: center;
+	/* padding-left: 10px;
+    padding-right: 10px; */
 }
 
 section h3 {
-	margin-bottom: 0px
+	margin-bottom: 20px
 }
 
 p {

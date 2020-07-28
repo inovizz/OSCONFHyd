@@ -1,67 +1,123 @@
 - 
-  id: 3
-  name: "TBA"
-  surname: "TBA"
-  company: "TBA"
-  title: "TBA"
-  bio: "TBA"
-  thumbnailUrl: 3.jpg
+  id: 7
+  name: "Ajeet Singh"
+  surname: "Raina"
+  company: "Collabnix"
+  title: "Docker Captain"
+  bio: "Docker Captain | ARM Innovator | Collabnix | Community Award Winner | Technical Marketing Manager at RedisLabs"
+  thumbnailUrl: ajeet.png
   rockstar: true
+  # ribbon:
+  #   - {abbr: "a", title: "a", url: "a"}
   social: 
-    - {name: "TBA", link: "TBA"}
-- 
-  id: 4
-  name: "TBA"
-  surname: "TBA"
-  company: "TBA"
-  title: "TBA"
-  bio: "TBA"
-  thumbnailUrl: 4.jpg
-  rockstar: true
-  social: 
-    - {name: "TBA", link: "TBA"}
-    - {name: "TBA", link: "TBA"}
-    - {name: "TBA", link: "TBA"}
-- 
-  id: 5
-  name: "TBA"
-  surname: "TBA"
-  company: "TBA"
-  title: "TBA"
-  bio: "TBA"
-  thumbnailUrl: 5.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "TBA", title: "TBA", url: "TBA"}
-    - {abbr: "TBA", title: "TBA", url: "TBA"}
-  social: 
-    - {name: "TBA", link: "TBA"}
-    - {name: "TBA", link: "TBA"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ajeetsraina/"}
+    - {name: "twitter", link: "https://twitter.com/ajeetsraina"}
 - 
   id: 6
-  name: "TBA"
-  surname: "TBA"
-  company: "TBA"
-  title: "TBA"
-  bio: "TBA"
-  thumbnailUrl: 6.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "TBA", title: "TBA", url: "TBA"}
+  name: "Aditya"
+  surname: "Soni"
+  company: "Precisely"
+  title: "DevOps & Cloud Engineer"
+  bio: "DevOps & Cloud ☁️, RHCE(V8), OpenSource & Community Contributor, LiFT Cloud Captain"
+  thumbnailUrl: aditya.jpg
+  rockstar: false
   social: 
-    - {name: "TBA", link: "TBA"}
-    - {name: "TBA", link: "TBA"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/theadisoni/"}
+
 - 
-  id: 7
-  name: "TBA"
-  surname: "TBA"
-  company: "TBA"
-  title: "TBA"
-  bio: "TBA"
-  thumbnailUrl: 7.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "TBA", title: "TBA", url: "TBA"}
+  id: 5
+  name: "Menaka"
+  surname: "Priyadharshini Baskar"
+  company: ""
+  title: ""
+  bio: "Software Engineer|Tech speaker 🌎|Microsoft Certified Professional | Author| Blogger | Microsoft Student Partner | c# corner Mvp"
+  thumbnailUrl: menaka.jpg
+  rockstar: false
   social: 
-    - {name: "TBA", link: "TBA"}
-    - {name: "TBA", link: "TBA"}
+    - {name: "twitter", link: "https://twitter.com/menakabasker"}
+
+- 
+  id: 4
+  name: "Prasad"
+  surname: "Ghangal"
+  company: "InfraCloud Technologies, Inc."
+  title: "Software Engineer"
+  bio: "Open source contributor | Golang | Kubernetes | CKA/D | botkube.io"
+  thumbnailUrl: prasad.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/prasadghangal"}
+    - {name: "twitter", link: "https://twitter.com/prasadg193"}
+    - {name: "github", link: "https://github.com/PrasadG193 "}
+
+- 
+  id: 3
+  name: "Suman"
+  surname: "Chakraborty"
+  company: "SAP Labs India"
+  title: "Senior DevOps Engineer"
+  bio: "CKA || CKAD || Docker certified || Cloud Foundry certified || Azure x1 || OCI || Speaker"
+  thumbnailUrl: suman.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/schakraborty007/"}
+    - {name: "twitter", link: "https://twitter.com/itsmesumanc"}
+
+- 
+  id: 2
+  name: "Arunvel"
+  surname: "Arunachalam"
+  company: "Cognizant"
+  title: "Team Lead"
+  bio: "Senior Infra Developer at Cognizant & Author by Passion"
+  thumbnailUrl: arun.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arunvel-arunachalam-4a019236/"}
+
+- 
+  id: 1
+  name: "Prashansa"
+  surname: "Kulshrestha"
+  company: "Postman"
+  title: "Platform Engineer"
+  bio: "RHCS(Openshift Admin, Ansible) | RHCE | DevOps | Cloud | Linux | Docker | Elastic Stack | Openshift | Kubernetes | AWS"
+  thumbnailUrl: prashansa.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/prashansa-k"}
+
+- 
+  id: 8
+  name: "Sanchit"
+  surname: "Balchandani"
+  company: "EPAM Systems"
+  title: "Lead Software Engineer"
+  bio: "Sanchit comes with 10+ years of experience into IT Industry and he has expertise in Python Programming and creating backend systems. He loves to write code in Python and likes to be involved with the open source community in whatever way possible. He is a core member of 'Hyderabad Python User Group' and 'DevOps & SRE User Group Hyderabad'"
+  thumbnailUrl: sanchit.png
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/inovizz"}
+    - {name: "twitter", link: "https://twitter.com/inovizz"}
+    - {name: "github", link: "https://github.com/inovizz"}
+    - {name: "website", link: "https://inovizz.com/"}
+
+- 
+  id: 9
+  name: "Nicolas"
+  surname: "Frankel"
+  company: "Hazelcast"
+  title: "Developer Advocate"
+  bio: "☛ Software developer and architect with 15 years experience in demanding environments</br>
+☛ Wide range of customers and contexts: telco, banking, insurances, large retail, public sector, ...</br>
+☛ Focused on Java and Spring technologies</br>
+☛ Specifically interested in Software Quality, Build Processes, Rich Internet Applications, and Kotlin</br>
+☛ Part-time lecturer</br>
+☛ Speaker at different international conferences: JavaOne, Spring One, Devoxx, JavaLand, GeeCon, JavaZone, JEEConf, Joker, ...</br>
+☛ Book author: Vaadin, Integration Testing</br>
+☛ Curious but pragmatic"
+  thumbnailUrl: nicolas.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasfrankel/"}
+    - {name: "twitter", link: "https://twitter.com/nicolas_frankel"}
