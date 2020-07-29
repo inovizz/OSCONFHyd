@@ -6607,3 +6607,7 @@ nav li a:hover {
 		display: none !important
 	}
 }
+
+.schedule-css {
+	padding-top: 20px;
+}
