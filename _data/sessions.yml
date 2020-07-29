@@ -1,14 +1,31 @@
 -
+  id: 011
+  title: "Panel Discussion on Kubelabs"
+  description: "Panel Discussion"
+  speakers: [10, 11, 12]
+  language: en
+  complexity: "All"
+-
+  id: 010
+  title: "Panel Discussion on Terraform"
+  description: "Panel Discussion"
+  speakers: [10, 13, 14]
+  language: en
+  complexity: "All"
+-
   id: 009
   title: "Shorten all URLs: Quarkus, Kotlin, Hazelcast and GraalVM"
-  description: "Technical Talk"
+  description: "At that point in the past, it was forecast that Java would die, but the JVM platform would be its legacy. And in fact, for a long time, the JVM has been tremendously successful. [Wikipedia](https://en.wikipedia.org/wiki/List_of_JVM_languages) itself list a bunch of languages that run on it, some of them close to Java _e.g._ Kotlin, some of them very remote _e.g._ Clojure.
+                But nowadays, the Cloud is becoming ubiquitous. Containerization is the way to go to alleviate some of the vendor lock-in issues. Kubernetes is a _de facto_ platform. If a container needs to be killed for whatever reason (resource consumption, unhealthy, etc.), a new one needs to replace it as fast as possible. In that context,  the JVM seems to be a dead-end: its startup time is huge in comparison to a native process. Likewise, it consumes a lot of memory that just increase the monthly bill.
+                What does that mean for us developers? Has all the time spent in learning the JVM ecosystem been invested with no hope of return over investment? Shall we need to invest even more time in new languages, frameworks, libraries, etc.? That is one possibility for sure. But we can also leverage our existing knowledge, and embrace the Cloud and containers ways with the help of some tools.
+                In this talk, I'll create a simple URL shortener with a 'standard' stack: Kotlin, JAX-RS and Hazelcast. Then, with the help of Quarkus and GraalVM, I'll turn this application into a native executable with all Cloud/Container related work has been moved to the build process."
   speakers: [9]
   language: en
   complexity: "All"
 -
   id: 008
   title: "Simplified Deployments into Cloud using Docker Desktop"
-  description: "Technical Talk"
+  description: "In this talk, I talk about the latest integration of Docker Desktop to AWS ECS & AZURE ACI services, which allows us to directly deploy containers from local to cloud with the help of just couple of commands."
   speakers: [8]
   language: en
   complexity: "All"
@@ -29,28 +46,30 @@
 -
   id: 005
   title: "Turning Virtual Machines 'Cloud-Native' using KubeVirt"
-  description: "Technical Talk"
+  description: "In this talk, I will be discussing about open-source CNCF sandbox project 'KubeVirt'. The project enables virtual machines to be deployed, consumed and managed by Kubernetes just like containers. Having a single deployment and management plane for both containers and virtual machines is designed to enable a unified platform for cloud-native applications, regardless of the requirements.The talk will describe the architecture and components of Kube-Virt, a demo on it and the use-case supporting the migration, lift-shift and transition of monolithic to microservices from consumer point of view"
   speakers: [3]
   language: en
   complexity: "All"
 -
   id: 004
   title: "Monitoring and debugging Kubernetes applications with BotKube"
-  description: "Technical Talk"
+  description: "BotKube is a lightweight, configurable and pluggable app for 'chatting' with multiple Kubernetes clusters and monitoring events. This talk will demo BotKube interacting with Kubernetes clusters and a developer trying to fix a failed deployment right from the collaboration platform like Slack."
   speakers: [4]
   language: en
   complexity: "All"
 -
   id: 003
   title: "A New Era of .Net Core Deployment using Azure Devops Starter"
-  description: "Technical Talk"
+  description: "A deep drive of Deployment of .net core apps in Azure Kubernetes service using Azure Devops. A simple demo of deployment will be given at end of the session. </br>
+                Why we need Azure Devops Starter?</br>
+                What all the possible ways that devops starter can be used will be explained in this demo?"
   speakers: [5]
   language: en
   complexity: "All"
 -
   id: 002
   title: "Automating Infrastructure with Kubernetes and Microservices Using Terraform"
-  description: "Technical Talk"
+  description: "Automation is the future. In today's world, agility is much more important by one's perspective with load handlers at any cloud provider -- public or private. With the help of Terraform, you can automate your infrastructure and applications in the cloud with microservices and Kubernetes integration to achieve greater agility and outcomes."
   speakers: [6]
   language: en
   complexity: "All"

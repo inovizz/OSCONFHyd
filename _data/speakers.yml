@@ -119,5 +119,66 @@
   thumbnailUrl: nicolas.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasfrankel/"}
     - {name: "twitter", link: "https://twitter.com/nicolas_frankel"}
+
+- 
+  id: 10
+  name: "Vinay"
+  surname: "Aggarwal"
+  company: "Dell EMC"
+  title: "Principal Software Engineer (DevOps)"
+  bio: ""
+  thumbnailUrl: vinay.png
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vinay-agarwal-b9944b9/"}
+
+- 
+  id: 13
+  name: "Vamsikrishna"
+  surname: "Burugadda"
+  company: "Optum"
+  title: "Azure/DevOps Engineer"
+  bio: ""
+  thumbnailUrl: vamsi.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vamsikrishna-burugadda"}
+
+- 
+  id: 14
+  name: "Ravichandran"
+  surname: "Somasundaram"
+  company: "Capgemini"
+  title: "Consultant"
+  bio: "Experienced Linux Administrator with a demonstrated history of working in the information technology and services industry. Skilled in Terraform, Packer, Consul, Shell Scripting, Ansible, Puppet, and Linux. Strong information technology professional with a Bachelor’s Degree focused in Business/Commerce, General from Subramanya College of Arts and Science. "
+  thumbnailUrl: ravi.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ravichandran-somasundaram/"}
+
+- 
+  id: 11
+  name: "Sangam"
+  surname: "Biradar"
+  company: "Collabnix"
+  title: "Docker Community Leader"
+  bio: "engineItops.com| 🐳 Docker Community Award Winner 🥇 2020 | KubeDaily | Social entrepreneur"
+  thumbnailUrl: sangam.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/biradarsangam?lang=en"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sangambiradar14"}
+
+- 
+  id: 12
+  name: "Apurva"
+  surname: "Bhandari"
+  company: "Vuclip"
+  title: "SRE"
+  bio: "CKA| CKAD| RHCE| Docker| DevOps/SRE| Cloud| CMT| SCM| CICD| ELK| MQ| Service Mesh| Monitoring| Technology Enthusiast| Speaker"
+  thumbnailUrl: apurva.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/apurv_bhandari"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/apurvabhandari-linux/"}
