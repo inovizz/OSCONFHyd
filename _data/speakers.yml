@@ -127,7 +127,9 @@
   surname: "Aggarwal"
   company: "Dell EMC"
   title: "Principal Software Engineer (DevOps)"
-  bio: ""
+  bio: "•Principal Software engineer (DELL EMC)</br>
+        •Work Exp. 13 year (Vmware,Atos,Oracle,Dell)</br>
+        •Technology/Tools: VMware,Docker’s,K8,Cloud,Git,jenkins."
   thumbnailUrl: vinay.png
   rockstar: false
   social: 
@@ -139,7 +141,7 @@
   surname: "Burugadda"
   company: "Optum"
   title: "Azure/DevOps Engineer"
-  bio: ""
+  bio: "I work as an Azure/DevOps Engineer at Optum, Hyderabad. Certified in AWS, Azure and Hashicorp Terraform. I contribute for Collabnix- Terraform project (Azure)."
   thumbnailUrl: vamsi.jpg
   rockstar: false
   social: 
