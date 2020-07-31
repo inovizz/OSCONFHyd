@@ -1,4 +1,17 @@
 -
+  id: 013
+  title: "Fun Quiz on Kahoot.it!"
+  description: "We'll play some fun quiz in between the sessions and ask questions based on the sessions done so far. So do pay attention to the talks :)"
+  language: en
+  complexity: "All"
+-
+  id: 012
+  title: "Testing your Kubernetes platform before and after upgrades through GitOps"
+  description: "Kubernetes adoption is increasing and for right reasons. When it comes to infrastructure components, Kubernetes is becoming almost as important as Linux. As Linux upgrades happen typically once in a year in production, Kubernetes upgrades may happen once in a quarter if not more often. The high rate of feature churn in Kubernetes forces the upgrades most of the time. Development teams and end users depend on the resilience of the underlying Kubernetes platform and for this reason it becomes very important to thoroughly test before the upgrades and after as well. The testing has to continue even in production to check if there are resilience issues which may force further upgrades."
+  speakers: [15]
+  language: en
+  complexity: "All"
+-
   id: 011
   title: "Panel Discussion on Kubelabs"
   description: "Panel Discussion"

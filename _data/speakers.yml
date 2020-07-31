@@ -184,3 +184,16 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/apurv_bhandari"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/apurvabhandari-linux/"}
+
+- 
+  id: 15
+  name: "Uma"
+  surname: "Mukkara"
+  company: "MayaData"
+  title: "Cofounder & COO"
+  bio: "Passionate about solving user's problems. Love building great teams. Working on cloud native data management. #Co-Founder #COO #OpenEBS #Litmus #cloudnative #kubernetes #hiring"
+  thumbnailUrl: uma.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/uma_mukkara"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/uma-mukkara/"}
