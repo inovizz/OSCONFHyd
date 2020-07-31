@@ -47,14 +47,14 @@
         sessionIds: [006]
       }
     - {
-        startTime: "12:45",
-        endTime: "13:00",
-        sessionIds: [013]
+        startTime: "12:50",
+        endTime: "13:20",
+        sessionIds: [007]
       } 
     - {
-        startTime: "13:00",
-        endTime: "13:30",
-        sessionIds: [007]
+        startTime: "13:20",
+        endTime: "13:35",
+        sessionIds: [013]
       }
     - {
         startTime: "13:35",
